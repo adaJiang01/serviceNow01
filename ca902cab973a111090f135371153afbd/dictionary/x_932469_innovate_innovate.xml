@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="71aa2067977a111090f135371153af06" label="Innovate" max_length="40" name="x_932469_innovate_innovate" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="1000" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Idea type" mandatory="true" max_length="40" name="idea_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label=" Cost Savings" value="_cost_savings"/>
+                <element inactive_on_update="false" label="Process Improvement" value="process_improvement"/>
+                <element inactive_on_update="false" label="Team Building" value="team_building"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Shot description" max_length="125" name="shot_description" type="string"/>
+    </element>
+</database>
