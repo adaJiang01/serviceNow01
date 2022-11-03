@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="2222" section_id="e307d9b39736111090f135371153af52" sys_domain="global" table="sys_app_module" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-03 06:44:43</sys_created_on>
+            <sys_id>d7175db39736111090f135371153afea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="2222" display_value="2222" name="sys_app_module" sys_domain="global" view="Default view">e307d9b39736111090f135371153af52</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-11-03 06:44:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_on</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-03 06:44:43</sys_created_on>
+            <sys_id>5b175db39736111090f135371153afea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="2222" display_value="2222" name="sys_app_module" sys_domain="global" view="Default view">e307d9b39736111090f135371153af52</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-11-03 06:44:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_update_name</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-03 06:44:43</sys_created_on>
+            <sys_id>db17d5f39736111090f135371153af3e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="2222" display_value="2222" name="sys_app_module" sys_domain="global" view="Default view">e307d9b39736111090f135371153af52</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-11-03 06:44:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>REL.sys_app_module.REL:df364130c3110100bac1addbdfba8f78</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-03 06:44:43</sys_created_on>
+            <sys_id>5f17d5f39736111090f135371153af3e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="2222" display_value="2222" name="sys_app_module" sys_domain="global" view="Default view">e307d9b39736111090f135371153af52</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-11-03 06:44:43</sys_updated_on>
+            <sys_user/>
+            <type>list</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_mod_count</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-03 06:44:43</sys_created_on>
+            <sys_id>df17d5f39736111090f135371153af3e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="2222" display_value="2222" name="sys_app_module" sys_domain="global" view="Default view">e307d9b39736111090f135371153af52</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-11-03 06:44:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>REL.sys_app_module.REL:67bdac52374010008687ddb1967334ee</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-03 06:44:43</sys_created_on>
+            <sys_id>5317d5f39736111090f135371153af3f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="2222" display_value="2222" name="sys_app_module" sys_domain="global" view="Default view">e307d9b39736111090f135371153af52</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-11-03 06:44:43</sys_updated_on>
+            <sys_user/>
+            <type>list</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>2222</caption>
+            <header>false</header>
+            <name>sys_app_module</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-03 06:44:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e307d9b39736111090f135371153af52</sys_id>
+            <sys_name>sys_app_module</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Innovate" source="x_932469_innovate">ca902cab973a111090f135371153afbd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Innovate">ca902cab973a111090f135371153afbd</sys_scope>
+            <sys_update_name>sys_ui_section_e307d9b39736111090f135371153af52</sys_update_name>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
